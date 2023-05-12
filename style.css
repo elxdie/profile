@@ -1,6 +1,6 @@
 body {
   font-family: 'Space Mono', monospace;
-  background-color: #AEC2B6;
+  background-color: #CDDAFD;
   color:#2e533b;
   /* padding:15px; */
   text-align:center;
@@ -55,7 +55,7 @@ a:hover{
 
 /* specify a specific link using id */
 #button1 {
-  background-color: #867070;
+  background-color: #FDE2E4;
   border: none;
   border-radius: 50px;
   color: #f6f6f6;
@@ -68,7 +68,7 @@ a:hover{
 
 /* precise the id of the link you want to hover */
 #button1:hover {
-  background-color:#4f4b4b;
+  background-color:#FAD2E1;
 }
 
 /* transform the photo into a circle */
@@ -80,7 +80,7 @@ img{
 
 /* edit the div */
 .box{
-  background-color: #DBE4C6;
+  background-color: #DFE7FD;
   padding:30px;
   width:500px;
   margin: 25px auto;
